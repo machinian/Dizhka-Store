@@ -25,3 +25,4 @@ DIZHKA Store або просто eCommerce магазин.
 Гарного ознайомлення! </b>
 
 bye
+Good bye
